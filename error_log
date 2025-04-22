@@ -1,0 +1,1227 @@
+[09-Jan-2025 02:58:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home4/blackqug/public_html/projects/Shopify-review/install.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 11
+[09-Jan-2025 03:04:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home4/blackqug/public_html/projects/Shopify-review/install.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 13
+[09-Jan-2025 03:04:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home4/blackqug/public_html/projects/Shopify-review/install.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 13
+[09-Jan-2025 03:07:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class "RandomLib\Factory" not found in /home4/blackqug/public_html/projects/Shopify-review/install.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 20
+[09-Jan-2025 03:16:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class "RandomLib\Factory" not found in /home4/blackqug/public_html/projects/Shopify-review/install.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 20
+[09-Jan-2025 03:17:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class "RandomLib\Factory" not found in /home4/blackqug/public_html/projects/Shopify-review/install.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 20
+[09-Jan-2025 03:35:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:94) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 155
+[09-Jan-2025 04:56:53 America/Chicago] PHP Warning:  Undefined array key "shop" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 15
+[09-Jan-2025 04:56:53 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 50
+[09-Jan-2025 04:56:53 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 50
+[09-Jan-2025 04:56:53 America/Chicago] PHP Warning:  Undefined variable $storename in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 51
+[09-Jan-2025 04:56:53 America/Chicago] PHP Warning:  Undefined variable $storename in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 56
+[09-Jan-2025 04:56:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:15) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 170
+[09-Jan-2025 23:49:10 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 53
+[09-Jan-2025 23:49:10 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 53
+[09-Jan-2025 23:49:10 America/Chicago] PHP Warning:  Undefined variable $storename in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 54
+[09-Jan-2025 23:49:10 America/Chicago] PHP Warning:  Undefined variable $storename in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 59
+[09-Jan-2025 23:49:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:48) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 232
+[09-Jan-2025 23:51:08 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 53
+[09-Jan-2025 23:51:08 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 53
+[09-Jan-2025 23:51:08 America/Chicago] PHP Warning:  Undefined variable $storename in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 54
+[09-Jan-2025 23:51:08 America/Chicago] PHP Warning:  Undefined variable $storename in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 59
+[09-Jan-2025 23:51:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:53) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 232
+[09-Jan-2025 23:52:08 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 53
+[09-Jan-2025 23:52:08 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 53
+[09-Jan-2025 23:52:08 America/Chicago] PHP Warning:  Undefined variable $storename in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 54
+[09-Jan-2025 23:52:08 America/Chicago] PHP Warning:  Undefined variable $storename in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 59
+[09-Jan-2025 23:52:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:53) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 232
+[10-Jan-2025 00:10:01 America/Chicago] PHP Warning:  Undefined variable $storename in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 58
+[10-Jan-2025 00:10:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:58) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 230
+[10-Jan-2025 00:11:25 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 58
+[10-Jan-2025 00:11:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:58) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 230
+[10-Jan-2025 00:13:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:43) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 231
+[10-Jan-2025 00:15:45 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 59
+[10-Jan-2025 00:15:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:59) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 231
+[10-Jan-2025 00:16:56 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 59
+[10-Jan-2025 00:16:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:59) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 231
+[10-Jan-2025 00:18:07 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 00:18:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:54) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 233
+[10-Jan-2025 00:32:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 43
+[10-Jan-2025 00:32:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 44
+[10-Jan-2025 00:32:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 45
+[10-Jan-2025 00:32:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 46
+[10-Jan-2025 00:32:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:43) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 227
+[10-Jan-2025 00:47:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 43
+[10-Jan-2025 00:47:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 44
+[10-Jan-2025 00:47:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 45
+[10-Jan-2025 00:47:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 46
+[10-Jan-2025 00:47:10 America/Chicago] PHP Warning:  Attempt to read property "access_token" on null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 58
+[10-Jan-2025 00:47:10 America/Chicago] PHP Warning:  Attempt to read property "recurring_id" on null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 59
+[10-Jan-2025 00:47:11 America/Chicago] PHP Warning:  Undefined array key "shop" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 68
+[10-Jan-2025 00:47:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 68
+[10-Jan-2025 00:47:11 America/Chicago] PHP Warning:  Undefined array key "shop" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 69
+[10-Jan-2025 00:47:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 69
+[10-Jan-2025 00:47:11 America/Chicago] PHP Warning:  Undefined array key "recurring_application_charge" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 88
+[10-Jan-2025 00:47:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 88
+[10-Jan-2025 00:47:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:43) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 209
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 43
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 44
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 45
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 46
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Attempt to read property "access_token" on null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 58
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Attempt to read property "recurring_id" on null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 59
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Undefined array key "shop" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 68
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 68
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Undefined array key "shop" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 69
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 69
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Undefined array key "recurring_application_charge" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 88
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 88
+[10-Jan-2025 02:56:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:43) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 209
+[10-Jan-2025 03:40:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 43
+[10-Jan-2025 03:40:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 44
+[10-Jan-2025 03:40:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 45
+[10-Jan-2025 03:40:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 46
+[10-Jan-2025 03:40:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:43) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 227
+[10-Jan-2025 03:44:21 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 52
+[10-Jan-2025 03:44:21 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 52
+[10-Jan-2025 03:44:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:52) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 231
+[10-Jan-2025 04:19:27 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 52
+[10-Jan-2025 04:19:27 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 52
+[10-Jan-2025 04:19:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:52) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 231
+[10-Jan-2025 04:22:00 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:22:00 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:22:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:61) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 240
+[10-Jan-2025 04:25:54 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:25:54 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:25:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:61) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 240
+[10-Jan-2025 04:28:41 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:28:41 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:30:50 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:30:50 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:43:51 America/Chicago] PHP Warning:  Undefined array key "shop" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 81
+[10-Jan-2025 04:43:51 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 81
+[10-Jan-2025 04:43:51 America/Chicago] PHP Warning:  Undefined array key "shop" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 82
+[10-Jan-2025 04:43:51 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 82
+[10-Jan-2025 04:43:51 America/Chicago] PHP Warning:  Undefined array key "recurring_application_charge" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 101
+[10-Jan-2025 04:43:51 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 101
+[10-Jan-2025 04:43:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:81) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 222
+[10-Jan-2025 04:44:48 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:44:48 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:49:52 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:49:52 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:58:56 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 04:58:56 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:01:28 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:01:28 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:10:10 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:10:10 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:13:43 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:13:43 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:18:46 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:18:46 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:20:16 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:20:16 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:22:47 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:22:47 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:24:55 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[10-Jan-2025 05:24:55 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[12-Jan-2025 22:07:08 America/Chicago] PHP Warning:  Undefined array key "recurring_application_charge" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 101
+[12-Jan-2025 22:07:08 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 101
+[12-Jan-2025 22:07:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:101) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 214
+[12-Jan-2025 22:11:47 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[12-Jan-2025 22:11:47 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[12-Jan-2025 22:33:16 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[12-Jan-2025 22:33:16 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[12-Jan-2025 22:33:23 America/Chicago] PHP Parse error:  syntax error, unexpected token "<" in /home4/blackqug/public_html/projects/Shopify-review/login.php on line 68
+[12-Jan-2025 22:34:54 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[12-Jan-2025 22:34:54 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[12-Jan-2025 22:37:28 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[12-Jan-2025 22:37:28 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[12-Jan-2025 22:41:03 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[12-Jan-2025 22:41:03 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[12-Jan-2025 22:41:20 America/Chicago] PHP Fatal error:  Uncaught TypeError: Dotenv\Dotenv::__construct(): Argument #1 ($store) must be of type Dotenv\Store\StoreInterface, string given, called in /home4/blackqug/public_html/projects/Shopify-review/basic_plan_selected.php on line 9 and defined in /home4/blackqug/public_html/projects/Shopify-review/vendor/vlucas/phpdotenv/src/Dotenv.php:60
+Stack trace:
+#0 /home4/blackqug/public_html/projects/Shopify-review/basic_plan_selected.php(9): Dotenv\Dotenv->__construct('/home4/blackqug...')
+#1 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/vendor/vlucas/phpdotenv/src/Dotenv.php on line 60
+[12-Jan-2025 23:52:50 America/Chicago] PHP Warning:  Undefined array key "recurring_application_charge" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 101
+[12-Jan-2025 23:52:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 101
+[12-Jan-2025 23:52:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:101) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 214
+[12-Jan-2025 23:53:48 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[12-Jan-2025 23:53:48 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 61
+[13-Jan-2025 01:01:34 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 01:02:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php:60
+Stack trace:
+#0 /home4/blackqug/public_html/projects/Shopify-review/save_review.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 60
+[13-Jan-2025 01:02:37 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 01:02:56 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php:60
+Stack trace:
+#0 /home4/blackqug/public_html/projects/Shopify-review/save_review.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 60
+[13-Jan-2025 01:05:18 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 01:24:21 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 02:49:23 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 02:49:36 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 02:49:36 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 02:49:39 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 02:49:42 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 02:51:50 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 02:52:07 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 02:59:44 America/Chicago] PHP Warning:  Undefined array key "shop" in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 6
+[13-Jan-2025 02:59:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/review.php:6) in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 6
+[13-Jan-2025 02:59:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/review.php:6) in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 7
+[13-Jan-2025 02:59:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/review.php:6) in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 8
+[13-Jan-2025 02:59:44 America/Chicago] PHP Warning:  Attempt to read property "access_token" on null in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 21
+[13-Jan-2025 02:59:44 America/Chicago] PHP Warning:  Undefined array key 5 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 39
+[13-Jan-2025 02:59:44 America/Chicago] PHP Warning:  Undefined array key 4 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 40
+[13-Jan-2025 02:59:44 America/Chicago] PHP Warning:  Undefined array key 3 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 41
+[13-Jan-2025 02:59:44 America/Chicago] PHP Warning:  Undefined array key 2 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 42
+[13-Jan-2025 02:59:44 America/Chicago] PHP Warning:  Undefined array key 1 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 43
+[13-Jan-2025 02:59:44 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:46
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 46
+[13-Jan-2025 03:00:41 America/Chicago] PHP Warning:  Attempt to read property "access_token" on null in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 21
+[13-Jan-2025 03:00:41 America/Chicago] PHP Warning:  Undefined array key 5 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 39
+[13-Jan-2025 03:00:41 America/Chicago] PHP Warning:  Undefined array key 4 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 40
+[13-Jan-2025 03:00:41 America/Chicago] PHP Warning:  Undefined array key 3 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 41
+[13-Jan-2025 03:00:41 America/Chicago] PHP Warning:  Undefined array key 2 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 42
+[13-Jan-2025 03:00:41 America/Chicago] PHP Warning:  Undefined array key 1 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 43
+[13-Jan-2025 03:00:41 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:46
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 46
+[13-Jan-2025 03:02:20 America/Chicago] PHP Warning:  Undefined array key 5 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 42
+[13-Jan-2025 03:02:20 America/Chicago] PHP Warning:  Undefined array key 4 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 43
+[13-Jan-2025 03:02:20 America/Chicago] PHP Warning:  Undefined array key 3 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 44
+[13-Jan-2025 03:02:20 America/Chicago] PHP Warning:  Undefined array key 2 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 45
+[13-Jan-2025 03:02:20 America/Chicago] PHP Warning:  Undefined array key 1 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 46
+[13-Jan-2025 03:02:20 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:49
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 49
+[13-Jan-2025 03:03:45 America/Chicago] PHP Warning:  Undefined array key 5 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 42
+[13-Jan-2025 03:03:45 America/Chicago] PHP Warning:  Undefined array key 4 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 43
+[13-Jan-2025 03:03:45 America/Chicago] PHP Warning:  Undefined array key 3 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 44
+[13-Jan-2025 03:03:45 America/Chicago] PHP Warning:  Undefined array key 2 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 45
+[13-Jan-2025 03:03:45 America/Chicago] PHP Warning:  Undefined array key 1 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 46
+[13-Jan-2025 03:03:45 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:49
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 49
+[13-Jan-2025 03:03:48 America/Chicago] PHP Warning:  Undefined array key 5 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 42
+[13-Jan-2025 03:03:48 America/Chicago] PHP Warning:  Undefined array key 4 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 43
+[13-Jan-2025 03:03:48 America/Chicago] PHP Warning:  Undefined array key 3 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 44
+[13-Jan-2025 03:03:48 America/Chicago] PHP Warning:  Undefined array key 2 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 45
+[13-Jan-2025 03:03:48 America/Chicago] PHP Warning:  Undefined array key 1 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 46
+[13-Jan-2025 03:03:48 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:49
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 49
+[13-Jan-2025 03:05:03 America/Chicago] PHP Warning:  Undefined array key 5 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 43
+[13-Jan-2025 03:05:03 America/Chicago] PHP Warning:  Undefined array key 4 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 44
+[13-Jan-2025 03:05:03 America/Chicago] PHP Warning:  Undefined array key 3 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 45
+[13-Jan-2025 03:05:03 America/Chicago] PHP Warning:  Undefined array key 2 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 46
+[13-Jan-2025 03:05:03 America/Chicago] PHP Warning:  Undefined array key 1 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 47
+[13-Jan-2025 03:05:03 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 03:05:09 America/Chicago] PHP Warning:  Undefined array key 5 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 43
+[13-Jan-2025 03:05:09 America/Chicago] PHP Warning:  Undefined array key 4 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 44
+[13-Jan-2025 03:05:09 America/Chicago] PHP Warning:  Undefined array key 3 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 45
+[13-Jan-2025 03:05:09 America/Chicago] PHP Warning:  Undefined array key 2 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 46
+[13-Jan-2025 03:05:09 America/Chicago] PHP Warning:  Undefined array key 1 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 47
+[13-Jan-2025 03:05:09 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 03:05:29 America/Chicago] PHP Warning:  Undefined array key 5 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 44
+[13-Jan-2025 03:05:29 America/Chicago] PHP Warning:  Undefined array key 4 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 45
+[13-Jan-2025 03:05:29 America/Chicago] PHP Warning:  Undefined array key 3 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 46
+[13-Jan-2025 03:05:29 America/Chicago] PHP Warning:  Undefined array key 2 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 47
+[13-Jan-2025 03:05:29 America/Chicago] PHP Warning:  Undefined array key 1 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 48
+[13-Jan-2025 03:05:29 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:51
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 51
+[13-Jan-2025 03:05:57 America/Chicago] PHP Warning:  Undefined array key 5 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 46
+[13-Jan-2025 03:05:57 America/Chicago] PHP Warning:  Undefined array key 4 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 47
+[13-Jan-2025 03:05:57 America/Chicago] PHP Warning:  Undefined array key 3 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 48
+[13-Jan-2025 03:05:57 America/Chicago] PHP Warning:  Undefined array key 2 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 49
+[13-Jan-2025 03:05:57 America/Chicago] PHP Warning:  Undefined array key 1 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 03:05:57 America/Chicago] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home4/blackqug/public_html/projects/Shopify-review/review.php:53
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 53
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $average in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 75
+[13-Jan-2025 03:06:22 America/Chicago] PHP Deprecated:  is_nan(): Passing null to parameter #1 ($num) of type float is deprecated in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 75
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $average in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 75
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $reviewcount in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 78
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 91
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $reviewcount in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 91
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 105
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $reviewcount in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 105
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 119
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $reviewcount in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 119
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 133
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $reviewcount in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 133
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 147
+[13-Jan-2025 03:06:22 America/Chicago] PHP Warning:  Undefined variable $reviewcount in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 147
+[13-Jan-2025 03:06:53 America/Chicago] PHP Fatal error:  Uncaught TypeError: is_nan(): Argument #1 ($num) must be of type float, string given in /home4/blackqug/public_html/projects/Shopify-review/review.php:76
+Stack trace:
+#0 /home4/blackqug/public_html/projects/Shopify-review/review.php(76): is_nan('')
+#1 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 76
+[13-Jan-2025 03:07:30 America/Chicago] PHP Warning:  Undefined variable $reviewcount in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 79
+[13-Jan-2025 03:07:30 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 92
+[13-Jan-2025 03:07:30 America/Chicago] PHP Warning:  Undefined variable $reviewcount in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 92
+[13-Jan-2025 03:07:30 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 106
+[13-Jan-2025 03:07:30 America/Chicago] PHP Warning:  Undefined variable $reviewcount in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 106
+[13-Jan-2025 03:07:30 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 120
+[13-Jan-2025 03:07:30 America/Chicago] PHP Warning:  Undefined variable $reviewcount in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 120
+[13-Jan-2025 03:07:30 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 134
+[13-Jan-2025 03:07:30 America/Chicago] PHP Warning:  Undefined variable $reviewcount in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 134
+[13-Jan-2025 03:07:30 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 148
+[13-Jan-2025 03:07:30 America/Chicago] PHP Warning:  Undefined variable $reviewcount in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 148
+[13-Jan-2025 03:09:34 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[13-Jan-2025 03:09:34 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[13-Jan-2025 03:09:34 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[13-Jan-2025 03:09:34 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[13-Jan-2025 03:09:34 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[13-Jan-2025 04:55:05 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[13-Jan-2025 04:55:05 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[13-Jan-2025 04:55:05 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[13-Jan-2025 04:55:05 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[13-Jan-2025 04:55:05 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[13-Jan-2025 04:55:12 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[13-Jan-2025 04:55:12 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[13-Jan-2025 04:55:12 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[13-Jan-2025 04:55:12 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[13-Jan-2025 04:55:12 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[13-Jan-2025 04:55:52 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[13-Jan-2025 04:55:52 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[13-Jan-2025 04:55:52 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[13-Jan-2025 04:55:52 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[13-Jan-2025 04:55:52 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[13-Jan-2025 04:56:01 America/Chicago] PHP Warning:  Undefined array key 4 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 49
+[13-Jan-2025 04:56:01 America/Chicago] PHP Warning:  Undefined array key 3 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[13-Jan-2025 04:56:01 America/Chicago] PHP Warning:  Undefined array key 2 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 51
+[13-Jan-2025 04:56:01 America/Chicago] PHP Warning:  Undefined array key 1 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 52
+[13-Jan-2025 04:56:01 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[13-Jan-2025 04:56:01 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[13-Jan-2025 04:56:01 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[13-Jan-2025 04:56:01 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[13-Jan-2025 04:56:01 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[13-Jan-2025 04:56:03 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[13-Jan-2025 04:56:03 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[13-Jan-2025 04:56:03 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[13-Jan-2025 04:56:03 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[13-Jan-2025 04:56:03 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[13-Jan-2025 22:29:15 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[13-Jan-2025 22:29:15 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[13-Jan-2025 22:29:15 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[13-Jan-2025 22:29:15 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[13-Jan-2025 22:29:15 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[13-Jan-2025 22:29:23 America/Chicago] PHP Warning:  Undefined array key "recurring_application_charge" in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 101
+[13-Jan-2025 22:29:23 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 101
+[13-Jan-2025 22:29:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:101) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 228
+[13-Jan-2025 22:35:11 America/Chicago] PHP Warning:  Undefined variable $access_token2 in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 106
+[13-Jan-2025 22:35:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/blackqug/public_html/projects/Shopify-review/install.php:106) in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 241
+[14-Jan-2025 04:40:46 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 121
+[14-Jan-2025 04:40:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Client" not found in /home4/blackqug/public_html/projects/Shopify-review/main.php:134
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 134
+[14-Jan-2025 04:41:08 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 121
+[14-Jan-2025 04:41:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Client" not found in /home4/blackqug/public_html/projects/Shopify-review/main.php:134
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 134
+[14-Jan-2025 04:41:54 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 118
+[14-Jan-2025 04:41:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Client" not found in /home4/blackqug/public_html/projects/Shopify-review/main.php:131
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 131
+[14-Jan-2025 04:44:11 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 120
+[14-Jan-2025 04:44:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Client" not found in /home4/blackqug/public_html/projects/Shopify-review/main.php:133
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 133
+[14-Jan-2025 04:44:41 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 118
+[14-Jan-2025 04:44:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Client" not found in /home4/blackqug/public_html/projects/Shopify-review/main.php:131
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 131
+[14-Jan-2025 04:45:03 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 118
+[14-Jan-2025 04:45:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Client" not found in /home4/blackqug/public_html/projects/Shopify-review/main.php:131
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 131
+[14-Jan-2025 04:46:06 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 118
+[14-Jan-2025 04:46:06 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Client" not found in /home4/blackqug/public_html/projects/Shopify-review/main.php:131
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 131
+[14-Jan-2025 04:46:44 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 118
+[14-Jan-2025 04:46:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Client" not found in /home4/blackqug/public_html/projects/Shopify-review/main.php:132
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 132
+[14-Jan-2025 04:52:51 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 118
+[14-Jan-2025 04:52:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Client" not found in /home4/blackqug/public_html/projects/Shopify-review/main.php:129
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 129
+[14-Jan-2025 04:53:14 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 04:53:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Client" not found in /home4/blackqug/public_html/projects/Shopify-review/main.php:133
+Stack trace:
+#0 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 133
+[14-Jan-2025 04:53:59 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 04:53:59 America/Chicago] PHP Warning:  Undefined variable $product_id in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 134
+[14-Jan-2025 04:53:59 America/Chicago] PHP Warning:  Undefined array key "data" in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 160
+[14-Jan-2025 04:53:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 160
+[14-Jan-2025 04:53:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 160
+[14-Jan-2025 04:53:59 America/Chicago] PHP Warning:  Undefined array key "data" in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 161
+[14-Jan-2025 04:53:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 161
+[14-Jan-2025 04:53:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 161
+[14-Jan-2025 04:53:59 America/Chicago] PHP Warning:  Attempt to read property "first_name" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 166
+[14-Jan-2025 04:54:26 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 04:54:26 America/Chicago] PHP Warning:  Undefined array key "data" in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 160
+[14-Jan-2025 04:54:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 160
+[14-Jan-2025 04:54:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 160
+[14-Jan-2025 04:54:26 America/Chicago] PHP Warning:  Undefined array key "data" in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 161
+[14-Jan-2025 04:54:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 161
+[14-Jan-2025 04:54:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 161
+[14-Jan-2025 04:54:26 America/Chicago] PHP Warning:  Attempt to read property "first_name" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 166
+[14-Jan-2025 04:55:06 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 04:55:06 America/Chicago] PHP Warning:  Undefined array key "data" in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 161
+[14-Jan-2025 04:55:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 161
+[14-Jan-2025 04:55:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 161
+[14-Jan-2025 04:55:06 America/Chicago] PHP Warning:  Undefined array key "data" in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 162
+[14-Jan-2025 04:55:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 162
+[14-Jan-2025 04:55:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 162
+[14-Jan-2025 04:55:06 America/Chicago] PHP Warning:  Attempt to read property "first_name" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 167
+[14-Jan-2025 04:56:25 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 04:56:25 America/Chicago] PHP Warning:  Undefined array key "data" in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 161
+[14-Jan-2025 04:56:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 161
+[14-Jan-2025 04:56:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 161
+[14-Jan-2025 04:56:25 America/Chicago] PHP Warning:  Undefined array key "data" in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 162
+[14-Jan-2025 04:56:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 162
+[14-Jan-2025 04:56:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 162
+[14-Jan-2025 04:56:25 America/Chicago] PHP Warning:  Attempt to read property "first_name" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 167
+[14-Jan-2025 04:58:17 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 04:58:17 America/Chicago] PHP Warning:  Attempt to read property "first_name" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 179
+[14-Jan-2025 04:58:38 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 04:58:38 America/Chicago] PHP Warning:  Attempt to read property "first_name" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 176
+[14-Jan-2025 05:02:14 America/Chicago] PHP Warning:  Undefined array key 4 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 49
+[14-Jan-2025 05:02:14 America/Chicago] PHP Warning:  Undefined array key 3 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 50
+[14-Jan-2025 05:02:14 America/Chicago] PHP Warning:  Undefined array key 2 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 51
+[14-Jan-2025 05:02:14 America/Chicago] PHP Warning:  Undefined array key 1 in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 52
+[14-Jan-2025 05:09:27 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[14-Jan-2025 05:09:27 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[14-Jan-2025 05:09:27 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[14-Jan-2025 05:09:27 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[14-Jan-2025 05:09:27 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[14-Jan-2025 05:09:59 America/Chicago] PHP Warning:  Undefined variable $storename in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 32
+[14-Jan-2025 05:09:59 America/Chicago] PHP Deprecated:  parse_url(): Passing null to parameter #1 ($url) of type string is deprecated in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 32
+[14-Jan-2025 05:09:59 America/Chicago] PHP Warning:  Undefined array key "host" in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 33
+[14-Jan-2025 05:09:59 America/Chicago] PHP Warning:  Undefined array key "email" in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 36
+[14-Jan-2025 05:09:59 America/Chicago] PHP Warning:  Undefined array key "comment" in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 38
+[14-Jan-2025 05:09:59 America/Chicago] PHP Warning:  Attempt to read property "id" on null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 46
+[14-Jan-2025 05:09:59 America/Chicago] PHP Warning:  Attempt to read property "id" on null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 51
+[14-Jan-2025 05:09:59 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php:57
+Stack trace:
+#0 /home4/blackqug/public_html/projects/Shopify-review/save_review.php(57): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 57
+[14-Jan-2025 05:10:10 America/Chicago] PHP Warning:  Undefined variable $reviewid in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 299
+[14-Jan-2025 05:10:30 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[14-Jan-2025 05:10:30 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[14-Jan-2025 05:10:30 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[14-Jan-2025 05:10:30 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[14-Jan-2025 05:10:30 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[14-Jan-2025 05:10:49 America/Chicago] PHP Warning:  Undefined variable $storename in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 32
+[14-Jan-2025 05:10:49 America/Chicago] PHP Deprecated:  parse_url(): Passing null to parameter #1 ($url) of type string is deprecated in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 32
+[14-Jan-2025 05:10:49 America/Chicago] PHP Warning:  Undefined array key "host" in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 33
+[14-Jan-2025 05:10:49 America/Chicago] PHP Warning:  Undefined array key "email" in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 36
+[14-Jan-2025 05:10:49 America/Chicago] PHP Warning:  Undefined array key "comment" in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 38
+[14-Jan-2025 05:10:49 America/Chicago] PHP Warning:  Attempt to read property "id" on null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 46
+[14-Jan-2025 05:10:49 America/Chicago] PHP Warning:  Attempt to read property "id" on null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 51
+[14-Jan-2025 05:10:49 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php:57
+Stack trace:
+#0 /home4/blackqug/public_html/projects/Shopify-review/save_review.php(57): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 57
+[14-Jan-2025 05:12:11 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[14-Jan-2025 05:12:11 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[14-Jan-2025 05:12:11 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[14-Jan-2025 05:12:11 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[14-Jan-2025 05:12:11 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[14-Jan-2025 05:12:31 America/Chicago] PHP Warning:  Undefined variable $storename in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 33
+[14-Jan-2025 05:12:31 America/Chicago] PHP Deprecated:  parse_url(): Passing null to parameter #1 ($url) of type string is deprecated in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 33
+[14-Jan-2025 05:12:31 America/Chicago] PHP Warning:  Undefined array key "host" in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 34
+[14-Jan-2025 05:12:31 America/Chicago] PHP Warning:  Undefined array key "email" in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 37
+[14-Jan-2025 05:12:31 America/Chicago] PHP Warning:  Undefined array key "comment" in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 39
+[14-Jan-2025 05:12:31 America/Chicago] PHP Warning:  Attempt to read property "id" on null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 47
+[14-Jan-2025 05:12:31 America/Chicago] PHP Warning:  Attempt to read property "id" on null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 52
+[14-Jan-2025 05:12:31 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php:58
+Stack trace:
+#0 /home4/blackqug/public_html/projects/Shopify-review/save_review.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 58
+[14-Jan-2025 05:15:36 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[14-Jan-2025 05:15:36 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[14-Jan-2025 05:15:36 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[14-Jan-2025 05:15:36 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[14-Jan-2025 05:15:36 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[14-Jan-2025 05:15:52 America/Chicago] PHP Warning:  Attempt to read property "id" on null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 50
+[14-Jan-2025 05:15:52 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'first_name' cannot be null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php:56
+Stack trace:
+#0 /home4/blackqug/public_html/projects/Shopify-review/save_review.php(56): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 56
+[14-Jan-2025 05:16:54 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[14-Jan-2025 05:16:54 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[14-Jan-2025 05:16:54 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[14-Jan-2025 05:16:54 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[14-Jan-2025 05:16:54 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[14-Jan-2025 05:18:12 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[14-Jan-2025 05:18:12 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[14-Jan-2025 05:18:12 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[14-Jan-2025 05:18:12 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[14-Jan-2025 05:18:12 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[14-Jan-2025 05:18:24 America/Chicago] PHP Warning:  Attempt to read property "id" on null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 48
+[14-Jan-2025 05:18:24 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home4/blackqug/public_html/projects/Shopify-review/save_review.php:53
+Stack trace:
+#0 /home4/blackqug/public_html/projects/Shopify-review/save_review.php(53): mysqli_stmt->bind_param('sssss', '84', 'wishlist1-test....', 'Ajay', 'blacklisted.web...')
+#1 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 53
+[14-Jan-2025 05:19:18 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[14-Jan-2025 05:19:18 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[14-Jan-2025 05:19:18 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[14-Jan-2025 05:19:18 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[14-Jan-2025 05:19:18 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[14-Jan-2025 05:19:57 America/Chicago] PHP Warning:  Attempt to read property "id" on null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 48
+[14-Jan-2025 05:19:57 America/Chicago] PHP Warning:  Array to string conversion in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 67
+[14-Jan-2025 05:19:57 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in /home4/blackqug/public_html/projects/Shopify-review/save_review.php:74
+Stack trace:
+#0 /home4/blackqug/public_html/projects/Shopify-review/save_review.php(74): mysqli_stmt->close()
+#1 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 74
+[14-Jan-2025 05:21:22 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[14-Jan-2025 05:21:22 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[14-Jan-2025 05:21:22 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[14-Jan-2025 05:21:22 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[14-Jan-2025 05:21:22 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[14-Jan-2025 05:21:38 America/Chicago] PHP Warning:  Attempt to read property "id" on null in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 48
+[14-Jan-2025 05:21:38 America/Chicago] PHP Warning:  Array to string conversion in /home4/blackqug/public_html/projects/Shopify-review/save_review.php on line 67
+[14-Jan-2025 05:21:49 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 05:21:49 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 05:23:55 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 05:23:55 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 05:34:32 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 05:34:32 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[14-Jan-2025 05:35:24 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'review_id' cannot be null in /home4/blackqug/public_html/projects/Shopify-review/reply_review.php:20
+Stack trace:
+#0 /home4/blackqug/public_html/projects/Shopify-review/reply_review.php(20): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home4/blackqug/public_html/projects/Shopify-review/reply_review.php on line 20
+[14-Jan-2025 05:41:44 America/Chicago] PHP Warning:  Attempt to read property "reply" on null in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 122
+[15-Jan-2025 00:32:50 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[15-Jan-2025 00:32:50 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[15-Jan-2025 00:32:50 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[15-Jan-2025 00:32:50 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[15-Jan-2025 00:32:50 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[15-Jan-2025 00:37:13 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 93
+[15-Jan-2025 00:37:13 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 107
+[15-Jan-2025 00:37:13 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 121
+[15-Jan-2025 00:37:13 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 135
+[15-Jan-2025 00:37:13 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 149
+[15-Jan-2025 00:41:37 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 00:41:37 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 00:41:37 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 00:41:37 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 00:41:37 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 00:43:23 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 00:43:23 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 00:43:23 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 00:43:23 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 00:43:23 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 00:56:29 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 00:56:29 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 00:56:29 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 00:56:29 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 00:56:29 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 00:57:26 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 00:57:26 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 00:57:26 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 00:57:26 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 00:57:26 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:02:30 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:02:30 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:02:30 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:02:30 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:02:30 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:04:06 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:04:06 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:04:06 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:04:06 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:04:06 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:10:26 America/Chicago] PHP Warning:  Undefined variable $client_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 41
+[15-Jan-2025 01:10:26 America/Chicago] PHP Warning:  Undefined variable $recurring_id in /home4/blackqug/public_html/projects/Shopify-review/install.php on line 41
+[15-Jan-2025 01:10:47 America/Chicago] PHP Warning:  Undefined variable $reviewid in /home4/blackqug/public_html/projects/Shopify-review/main.php on line 299
+[15-Jan-2025 01:11:35 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:11:35 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:11:35 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:11:35 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:11:35 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:12:09 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:12:09 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:12:09 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:12:09 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:12:09 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:12:11 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:12:11 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:12:11 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:12:11 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:12:11 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:12:14 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:12:14 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:12:14 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:12:14 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:12:14 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:16:36 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:16:36 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:16:36 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:16:36 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:16:36 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:28:32 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:28:32 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:28:32 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:28:32 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:28:32 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:29:25 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:29:25 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:29:25 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:29:25 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:29:25 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:29:28 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:29:28 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:29:28 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:29:28 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:29:28 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:41:34 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:41:34 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:41:34 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:41:34 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:41:34 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:41:58 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:41:58 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:41:58 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:41:58 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:41:58 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:47:58 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:47:58 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:47:58 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:47:58 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:47:58 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:48:39 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:48:39 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:48:39 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:48:39 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:48:39 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:52:16 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:52:16 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:52:16 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:52:16 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:52:16 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[15-Jan-2025 01:54:10 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[15-Jan-2025 01:54:10 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[15-Jan-2025 01:54:10 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[15-Jan-2025 01:54:10 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[15-Jan-2025 01:54:10 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[27-Jan-2025 05:07:50 America/Chicago] PHP Warning:  Undefined array key "host" in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 19
+[27-Jan-2025 05:07:50 America/Chicago] PHP Warning:  Attempt to read property "access_token" on null in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 24
+[27-Jan-2025 05:07:50 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[27-Jan-2025 05:07:50 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[27-Jan-2025 05:07:50 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[27-Jan-2025 05:07:50 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[27-Jan-2025 05:07:50 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[27-Jan-2025 05:08:09 America/Chicago] PHP Warning:  Undefined array key "host" in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 19
+[27-Jan-2025 05:08:09 America/Chicago] PHP Warning:  Attempt to read property "access_token" on null in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 24
+[27-Jan-2025 05:08:09 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[27-Jan-2025 05:08:09 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[27-Jan-2025 05:08:09 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[27-Jan-2025 05:08:09 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[27-Jan-2025 05:08:09 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[27-Jan-2025 05:08:22 America/Chicago] PHP Warning:  Undefined array key "host" in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 19
+[27-Jan-2025 05:08:22 America/Chicago] PHP Warning:  Attempt to read property "access_token" on null in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 24
+[27-Jan-2025 05:08:22 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[27-Jan-2025 05:08:22 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[27-Jan-2025 05:08:22 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[27-Jan-2025 05:08:22 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[27-Jan-2025 05:08:22 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[27-Jan-2025 05:08:41 America/Chicago] PHP Warning:  Undefined array key "host" in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 19
+[27-Jan-2025 05:08:41 America/Chicago] PHP Warning:  Attempt to read property "access_token" on null in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 24
+[27-Jan-2025 05:08:41 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[27-Jan-2025 05:08:41 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[27-Jan-2025 05:08:41 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[27-Jan-2025 05:08:41 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[27-Jan-2025 05:08:41 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[27-Jan-2025 05:08:51 America/Chicago] PHP Warning:  Undefined array key "host" in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 19
+[27-Jan-2025 05:08:51 America/Chicago] PHP Warning:  Attempt to read property "access_token" on null in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 24
+[27-Jan-2025 05:08:51 America/Chicago] PHP Warning:  Undefined variable $five in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 94
+[27-Jan-2025 05:08:51 America/Chicago] PHP Warning:  Undefined variable $four in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 108
+[27-Jan-2025 05:08:51 America/Chicago] PHP Warning:  Undefined variable $three in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 122
+[27-Jan-2025 05:08:51 America/Chicago] PHP Warning:  Undefined variable $two in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 136
+[27-Jan-2025 05:08:51 America/Chicago] PHP Warning:  Undefined variable $one in /home4/blackqug/public_html/projects/Shopify-review/review.php on line 150
+[01-Apr-2025 05:49:22 UTC] PHP Warning:  Undefined variable $reviewid in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 299
+[01-Apr-2025 09:10:30 UTC] PHP Warning:  Undefined variable $reviewid in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 299
+[01-Apr-2025 09:13:55 UTC] PHP Warning:  Undefined array key "host" in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 19
+[01-Apr-2025 09:13:55 UTC] PHP Warning:  Attempt to read property "access_token" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 24
+[01-Apr-2025 09:13:55 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 94
+[01-Apr-2025 09:13:55 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 108
+[01-Apr-2025 09:13:55 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 122
+[01-Apr-2025 09:13:55 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 136
+[01-Apr-2025 09:13:55 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 150
+[01-Apr-2025 09:16:29 UTC] PHP Warning:  Undefined array key "host" in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 19
+[01-Apr-2025 09:16:29 UTC] PHP Warning:  Attempt to read property "access_token" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 24
+[01-Apr-2025 09:16:29 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 94
+[01-Apr-2025 09:16:29 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 108
+[01-Apr-2025 09:16:29 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 122
+[01-Apr-2025 09:16:29 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 136
+[01-Apr-2025 09:16:29 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 150
+[01-Apr-2025 09:18:43 UTC] PHP Warning:  Undefined array key "host" in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 19
+[01-Apr-2025 09:18:43 UTC] PHP Warning:  Attempt to read property "access_token" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 24
+[01-Apr-2025 09:18:43 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 94
+[01-Apr-2025 09:18:43 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 108
+[01-Apr-2025 09:18:43 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 122
+[01-Apr-2025 09:18:43 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 136
+[01-Apr-2025 09:18:43 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 150
+[01-Apr-2025 09:19:09 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 94
+[01-Apr-2025 09:19:09 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 108
+[01-Apr-2025 09:19:09 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 122
+[01-Apr-2025 09:19:09 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 136
+[01-Apr-2025 09:19:09 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 150
+[01-Apr-2025 09:20:14 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 09:20:14 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 09:20:14 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 09:20:14 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 09:20:14 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 09:20:19 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 09:20:19 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 09:20:19 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 09:20:19 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 09:20:19 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 09:20:24 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 09:20:24 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 09:20:24 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 09:20:24 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 09:20:24 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 10:08:09 UTC] PHP Warning:  Undefined variable $reviewid in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 299
+[01-Apr-2025 10:08:19 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 10:08:19 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 10:08:19 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 10:08:19 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 10:08:19 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 10:13:50 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 10:13:50 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 10:13:50 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 10:13:50 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 10:13:50 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 10:25:35 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 10:25:35 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 10:25:35 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 10:25:35 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 10:25:35 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 10:33:06 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 10:33:06 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 10:33:06 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 10:33:06 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 10:33:06 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 10:46:04 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 10:46:04 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 10:46:04 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 10:46:04 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 10:46:04 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 10:49:19 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 10:49:19 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 10:49:19 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 10:49:19 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 10:49:19 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 10:52:16 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 10:52:16 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 10:52:16 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 10:52:16 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 10:52:16 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 10:52:19 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 10:52:19 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 10:52:19 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 10:52:19 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 10:52:19 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 10:52:22 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 10:52:22 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 10:52:22 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 10:52:22 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 10:52:22 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 10:53:55 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 10:53:55 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 10:53:55 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 10:53:55 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 10:53:55 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 10:55:18 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 10:55:18 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 10:55:18 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 10:55:18 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 10:55:18 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 10:55:20 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 10:55:20 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 10:55:20 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 10:55:20 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 10:55:20 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 11:02:30 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 11:02:30 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 11:02:30 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 11:02:30 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 11:02:30 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 11:02:56 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 11:02:56 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 11:02:56 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 11:02:56 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 11:02:56 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 11:03:02 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 11:03:02 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 11:03:02 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 11:03:02 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 11:03:02 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 11:05:41 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 11:05:41 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 11:05:41 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 11:05:41 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 11:05:41 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 11:46:47 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 11:46:47 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 11:46:47 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 11:46:47 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 11:46:47 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 11:46:49 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 11:46:49 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 11:46:49 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 11:46:49 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 11:46:49 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 11:47:17 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 11:47:17 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 11:47:17 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 11:47:17 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 11:47:17 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 11:47:19 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 11:47:19 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 11:47:19 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 11:47:19 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 11:47:19 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 11:54:47 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 11:54:47 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 11:54:47 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 11:54:47 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 11:54:47 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[01-Apr-2025 11:55:37 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[01-Apr-2025 11:55:37 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[01-Apr-2025 11:55:37 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[01-Apr-2025 11:55:37 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[01-Apr-2025 11:55:37 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[02-Apr-2025 04:11:38 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[02-Apr-2025 04:11:38 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[02-Apr-2025 04:11:38 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[02-Apr-2025 04:11:38 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[02-Apr-2025 04:11:38 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[02-Apr-2025 04:15:33 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[02-Apr-2025 04:15:33 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[02-Apr-2025 04:15:33 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[02-Apr-2025 04:15:33 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[02-Apr-2025 04:15:33 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[02-Apr-2025 04:15:34 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[02-Apr-2025 04:15:34 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[02-Apr-2025 04:15:34 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[02-Apr-2025 04:15:34 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[02-Apr-2025 04:15:34 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[02-Apr-2025 04:15:59 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[02-Apr-2025 04:15:59 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[02-Apr-2025 04:15:59 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[02-Apr-2025 04:15:59 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[02-Apr-2025 04:15:59 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[02-Apr-2025 04:27:07 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 90
+[02-Apr-2025 04:27:07 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 104
+[02-Apr-2025 04:27:07 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 118
+[02-Apr-2025 04:27:07 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 132
+[02-Apr-2025 04:27:07 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 146
+[02-Apr-2025 05:28:46 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 05:28:46 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 05:28:46 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 05:28:46 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 05:28:46 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 05:28:48 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 05:28:48 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 05:28:48 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 05:28:48 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 05:28:48 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 05:33:13 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 05:33:13 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 05:33:13 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 05:33:13 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 05:33:13 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 05:35:42 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 05:35:42 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 05:35:42 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 05:35:42 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 05:35:42 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 05:35:53 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 05:35:53 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 05:35:53 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 05:35:53 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 05:35:53 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 05:36:38 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 05:36:38 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 05:36:38 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 05:36:38 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 05:36:38 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 05:50:24 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 05:50:24 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 05:50:24 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 05:50:24 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 05:50:24 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 06:15:08 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 06:15:08 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 06:15:08 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 06:15:08 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 06:15:08 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 06:15:08 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 06:15:08 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 06:15:08 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 06:15:08 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 06:15:08 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 06:41:22 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 06:41:22 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 06:41:22 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 06:41:22 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 06:41:22 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 06:46:09 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 06:46:09 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 06:46:09 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 06:46:09 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 06:46:09 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 06:47:24 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 06:47:24 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 06:47:24 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 06:47:24 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 06:47:24 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 06:47:31 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 06:47:31 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 06:47:31 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 06:47:31 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 06:47:31 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 06:50:18 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 06:50:18 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 06:50:18 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 06:50:18 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 06:50:18 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 06:50:21 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 06:50:21 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 06:50:21 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 06:50:21 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 06:50:21 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 06:50:25 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 06:50:25 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 06:50:25 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 06:50:25 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 06:50:25 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 06:54:20 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 06:54:20 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 06:54:20 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 06:54:20 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 06:54:20 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 07:00:57 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 07:00:57 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 07:00:57 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 07:00:57 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 07:00:57 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 07:03:35 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 07:03:35 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 07:03:35 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 07:03:35 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 07:03:35 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 07:09:11 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 07:09:11 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 07:09:11 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 07:09:11 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 07:09:11 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 07:09:12 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 07:09:12 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 07:09:12 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 07:09:12 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 07:09:12 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 07:09:22 UTC] PHP Warning:  Undefined array key "host" in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 32
+[02-Apr-2025 07:09:22 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 44
+[02-Apr-2025 07:09:22 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 49
+[02-Apr-2025 07:09:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php:55
+Stack trace:
+#0 /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 55
+[02-Apr-2025 07:09:22 UTC] PHP Warning:  Undefined array key "host" in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 32
+[02-Apr-2025 07:09:22 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 44
+[02-Apr-2025 07:09:22 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 49
+[02-Apr-2025 07:09:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php:55
+Stack trace:
+#0 /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 55
+[02-Apr-2025 07:09:23 UTC] PHP Warning:  Undefined array key "host" in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 32
+[02-Apr-2025 07:09:23 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 44
+[02-Apr-2025 07:09:23 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 49
+[02-Apr-2025 07:09:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php:55
+Stack trace:
+#0 /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 55
+[02-Apr-2025 07:09:26 UTC] PHP Warning:  Undefined array key "host" in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 32
+[02-Apr-2025 07:09:26 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 44
+[02-Apr-2025 07:09:26 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 49
+[02-Apr-2025 07:09:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php:55
+Stack trace:
+#0 /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 55
+[02-Apr-2025 07:09:27 UTC] PHP Warning:  Undefined array key "host" in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 32
+[02-Apr-2025 07:09:27 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 44
+[02-Apr-2025 07:09:27 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 49
+[02-Apr-2025 07:09:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php:55
+Stack trace:
+#0 /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 55
+[02-Apr-2025 07:09:28 UTC] PHP Warning:  Undefined array key "host" in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 32
+[02-Apr-2025 07:09:28 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 44
+[02-Apr-2025 07:09:28 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 49
+[02-Apr-2025 07:09:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php:55
+Stack trace:
+#0 /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 55
+[02-Apr-2025 07:09:32 UTC] PHP Warning:  Undefined array key "host" in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 32
+[02-Apr-2025 07:09:32 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 44
+[02-Apr-2025 07:09:32 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 49
+[02-Apr-2025 07:09:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php:55
+Stack trace:
+#0 /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 55
+[02-Apr-2025 07:11:12 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 07:11:12 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 07:11:12 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 07:11:12 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 07:11:12 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 07:11:17 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 07:11:17 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 07:11:17 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 07:11:17 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 07:11:17 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 07:11:45 UTC] PHP Warning:  Undefined array key "host" in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 32
+[02-Apr-2025 07:11:45 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 44
+[02-Apr-2025 07:11:45 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 49
+[02-Apr-2025 07:11:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'store_id' cannot be null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php:55
+Stack trace:
+#0 /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 55
+[02-Apr-2025 07:12:59 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 49
+[02-Apr-2025 07:13:37 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 07:13:37 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 07:13:37 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 07:13:37 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 07:13:37 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 07:16:29 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/save_review.php on line 49
+[02-Apr-2025 07:21:31 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 07:21:31 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 07:21:31 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 07:24:29 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 89
+[02-Apr-2025 07:24:29 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 103
+[02-Apr-2025 07:24:29 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 117
+[02-Apr-2025 07:24:29 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 131
+[02-Apr-2025 07:24:29 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 145
+[02-Apr-2025 07:24:53 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 07:24:54 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 07:24:54 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:22:58 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:22:59 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 09:22:59 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:28:06 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:28:07 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 09:28:07 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:28:15 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:28:15 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 09:28:15 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:28:33 UTC] PHP Warning:  Undefined array key 4 in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 47
+[02-Apr-2025 09:28:33 UTC] PHP Warning:  Undefined array key 3 in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 48
+[02-Apr-2025 09:28:33 UTC] PHP Warning:  Undefined array key 2 in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 49
+[02-Apr-2025 09:28:33 UTC] PHP Warning:  Undefined array key 1 in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 50
+[02-Apr-2025 09:29:46 UTC] PHP Warning:  Undefined array key 4 in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 44
+[02-Apr-2025 09:29:46 UTC] PHP Warning:  Undefined array key 3 in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 45
+[02-Apr-2025 09:29:46 UTC] PHP Warning:  Undefined array key 2 in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 46
+[02-Apr-2025 09:29:46 UTC] PHP Warning:  Undefined array key 1 in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 47
+[02-Apr-2025 09:32:59 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:32:59 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 09:32:59 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:33:03 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:33:04 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 09:33:04 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:33:05 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:33:05 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 09:33:05 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:33:11 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 81
+[02-Apr-2025 09:33:11 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 95
+[02-Apr-2025 09:33:11 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 109
+[02-Apr-2025 09:33:11 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 123
+[02-Apr-2025 09:33:11 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 137
+[02-Apr-2025 09:34:32 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:34:32 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 09:34:32 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:34:34 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:34:35 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 09:34:35 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 09:35:11 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 09:35:11 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 10:22:19 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 10:22:19 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 10:40:48 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 10:40:48 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 10:46:40 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 10:46:40 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 10:48:40 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 10:48:40 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 10:49:03 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 10:49:03 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 10:49:21 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 81
+[02-Apr-2025 10:49:21 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 95
+[02-Apr-2025 10:49:21 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 109
+[02-Apr-2025 10:49:21 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 123
+[02-Apr-2025 10:49:21 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 137
+[02-Apr-2025 11:47:25 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 11:47:25 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 11:47:38 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 11:47:38 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 11:55:09 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 11:55:09 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 11:55:19 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 11:55:19 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 11:56:02 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 11:56:02 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 11:56:06 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 11:56:06 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[02-Apr-2025 11:57:22 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[02-Apr-2025 11:57:22 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[03-Apr-2025 06:58:37 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 81
+[03-Apr-2025 06:58:37 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 95
+[03-Apr-2025 06:58:37 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 109
+[03-Apr-2025 06:58:37 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 123
+[03-Apr-2025 06:58:37 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 137
+[03-Apr-2025 06:58:48 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[03-Apr-2025 06:58:48 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[03-Apr-2025 08:46:52 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 81
+[03-Apr-2025 08:46:52 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 95
+[03-Apr-2025 08:46:52 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 109
+[03-Apr-2025 08:46:52 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 123
+[03-Apr-2025 08:46:52 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 137
+[03-Apr-2025 08:47:04 UTC] PHP Warning:  Attempt to read property "first_name" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 176
+[03-Apr-2025 08:47:04 UTC] PHP Warning:  Attempt to read property "reply" on null in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/main.php on line 122
+[04-Apr-2025 07:47:53 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 92
+[04-Apr-2025 07:47:53 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 106
+[04-Apr-2025 07:47:53 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 120
+[04-Apr-2025 07:47:53 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 134
+[04-Apr-2025 07:47:53 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 148
+[04-Apr-2025 07:48:21 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 92
+[04-Apr-2025 07:48:21 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 106
+[04-Apr-2025 07:48:21 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 120
+[04-Apr-2025 07:48:21 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 134
+[04-Apr-2025 07:48:21 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 148
+[04-Apr-2025 07:48:24 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 92
+[04-Apr-2025 07:48:24 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 106
+[04-Apr-2025 07:48:24 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 120
+[04-Apr-2025 07:48:24 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 134
+[04-Apr-2025 07:48:24 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 148
+[04-Apr-2025 07:49:18 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 92
+[04-Apr-2025 07:49:18 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 106
+[04-Apr-2025 07:49:18 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 120
+[04-Apr-2025 07:49:18 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 134
+[04-Apr-2025 07:49:18 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 148
+[07-Apr-2025 07:48:54 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 92
+[07-Apr-2025 07:48:54 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 106
+[07-Apr-2025 07:48:54 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 120
+[07-Apr-2025 07:48:54 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 134
+[07-Apr-2025 07:48:54 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 148
+[07-Apr-2025 07:53:23 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 92
+[07-Apr-2025 07:53:23 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 106
+[07-Apr-2025 07:53:23 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 120
+[07-Apr-2025 07:53:23 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 134
+[07-Apr-2025 07:53:23 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 148
+[07-Apr-2025 07:56:08 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 92
+[07-Apr-2025 07:56:08 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 106
+[07-Apr-2025 07:56:08 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 120
+[07-Apr-2025 07:56:08 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 134
+[07-Apr-2025 07:56:08 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 148
+[07-Apr-2025 07:58:49 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 92
+[07-Apr-2025 07:58:49 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 106
+[07-Apr-2025 07:58:49 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 120
+[07-Apr-2025 07:58:49 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 134
+[07-Apr-2025 07:58:49 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 148
+[07-Apr-2025 07:58:58 UTC] PHP Warning:  Undefined variable $five in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 92
+[07-Apr-2025 07:58:58 UTC] PHP Warning:  Undefined variable $four in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 106
+[07-Apr-2025 07:58:58 UTC] PHP Warning:  Undefined variable $three in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 120
+[07-Apr-2025 07:58:58 UTC] PHP Warning:  Undefined variable $two in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 134
+[07-Apr-2025 07:58:58 UTC] PHP Warning:  Undefined variable $one in /home/kmgwlx8l2rlf/public_html/projects/Shopify-review/review.php on line 148
